@@ -3,7 +3,7 @@ About flask-restful
 
 Home: https://www.github.com/flask-restful/flask-restful/
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/flask-restful-feedstock/blob/master/LICENSE.txt)
 
